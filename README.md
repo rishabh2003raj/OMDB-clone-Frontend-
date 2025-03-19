@@ -1,7 +1,7 @@
-Overview
+> Overview
 This web application allows users to search for movies using the OMDB API, view detailed information about each movie, and maintain a watchlist of favorite movies. The application is built using HTML, CSS, and JavaScript, and it leverages the OMDB API to fetch movie data.
 
-Features
+> Features
 Search for Movies: Users can search for movies by typing the movie name in the search bar.
 
 View Movie Details: Clicking on a movie from the search results or watchlist will display detailed information about the movie, including its plot, cast, ratings, and more.
@@ -12,7 +12,7 @@ Remove from Watchlist: Users can remove movies from their watchlist.
 
 Responsive Design: The application is designed to be responsive and works well on both desktop and mobile devices.
 
-Prerequisites
+> Prerequisites
 Before running the application, ensure you have the following:
 
 A modern web browser (e.g., Google Chrome, Mozilla Firefox, Safari).
@@ -44,7 +44,7 @@ View Watchlist: Navigate to the "Watchlist" page by clicking the "Watchlist" lin
 
 Remove from Watchlist: On the "Watchlist" page, click the trash icon next to a movie to remove it from your watchlist.
 
-Project Structure
+> Project Structure
 index.html: The main HTML file that contains the structure of the home page.
 
 movie.html: The HTML file that displays detailed information about a selected movie.
@@ -55,10 +55,10 @@ style.css: The CSS file that contains all the styling for the application.
 
 script.js: The JavaScript file that contains the logic for fetching data from the OMDB API, handling user interactions, and managing the watchlist.
 
-API Key
+> API Key
 The application uses the OMDB API to fetch movie data. The API key used in this project is ddfbf9c2. If you want to use your own API key, you can sign up for one at OMDB API and replace the key in the script.js file.
 
-Deployment to GitHub Pages
+> Deployment to GitHub Pages
 To deploy this application to GitHub Pages, follow these steps:
 
 Create a GitHub Repository: Create a new repository on GitHub and push your project files to it.
